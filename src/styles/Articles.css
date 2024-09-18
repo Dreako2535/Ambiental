@@ -1,0 +1,16 @@
+/* src/styles/Articles.css */
+.articles-page {
+    padding: 20px;
+  }
+  
+  .articles-page h1 {
+    color: #2f855a;
+    margin-bottom: 20px;
+  }
+  
+  .articles-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  

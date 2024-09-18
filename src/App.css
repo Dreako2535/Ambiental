@@ -1,9 +1,9 @@
-.App {
-  width: 100%;
-  height: 100vh;
+/* src/App.css */
+.app {
   display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(90deg, rgba(2,0,36,1) 2%, rgba(34,34,255,1) 25%, rgba(0,175,255,1) 40%, rgba(0,212,255,1) 53%);
-  /* background-color: rgb(0, 17, 255); */
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
 }

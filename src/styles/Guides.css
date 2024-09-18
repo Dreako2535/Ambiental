@@ -1,0 +1,16 @@
+/* src/styles/Guides.css */
+.guides-page {
+    padding: 20px;
+  }
+  
+  .guides-page h1 {
+    color: #2f855a;
+    margin-bottom: 20px;
+  }
+  
+  .guides-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  

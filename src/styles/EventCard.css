@@ -1,0 +1,30 @@
+/* src/styles/EventCard.css */
+.event-card {
+    border: 1px solid #48bb78;
+    padding: 20px;
+    width: 250px;
+    border-radius: 5px;
+  }
+  
+  .event-card h2 {
+    font-size: 18px;
+    color: #2f855a;
+  }
+  
+  .event-card p {
+    margin: 5px 0;
+  }
+  
+  .event-card button {
+    background-color: #2f855a;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .event-card button:hover {
+    background-color: #276749;
+  }
+  

@@ -1,0 +1,15 @@
+/* src/styles/Home.css */
+.home {
+    padding: 20px;
+  }
+  
+  .article-cards {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  h1 {
+    color: #2f855a;
+  }
+  

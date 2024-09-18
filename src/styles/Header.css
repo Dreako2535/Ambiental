@@ -1,0 +1,13 @@
+/* src/styles/Header.css */
+.header {
+    background-color: #48bb78;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .header input {
+    padding: 5px;
+    width: 200px;
+  }
+  

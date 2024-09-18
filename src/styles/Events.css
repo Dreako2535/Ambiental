@@ -1,0 +1,16 @@
+/* src/styles/Events.css */
+.events-page {
+    padding: 20px;
+  }
+  
+  .events-page h1 {
+    color: #2f855a;
+    margin-bottom: 20px;
+  }
+  
+  .events-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  

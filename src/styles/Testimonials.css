@@ -1,0 +1,16 @@
+/* src/styles/Testimonials.css */
+.testimonials-page {
+    padding: 20px;
+  }
+  
+  .testimonials-page h1 {
+    color: #2f855a;
+    margin-bottom: 20px;
+  }
+  
+  .testimonials-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
